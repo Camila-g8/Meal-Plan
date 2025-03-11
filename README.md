@@ -1,64 +1,75 @@
-# Meal-Plan
+User: Create a vegan meal plan for a 5'7" 135lbs woman trying to lose 1 lb a week.
 
-User: Im a woman, 5'7" 135 lbs that needs a week of meal plans to gain muscle. 
+🤖 AI Coach (Diet: Vegan):
+To create a vegan meal plan aimed at weight loss for a woman who is 5'7" and 135 pounds, it's important to consider her overall health, activity level, and personal preferences. Losing 1 lb per week requires a calorie deficit of about 500 calories per day from her estimated daily calorie needs. This plan will target approximately 1500 calories per day, though this may need further personal adjustment based on her specific lifestyle and activity level.
 
-🤖 AI Coach: To support muscle growth, it's essential to focus on a balanced diet rich in protein, alongside an appropriate training regimen. Given your aim to gain muscle, you’ll likely need an increased caloric intake, rich in proteins, carbohydrates, and healthy fats, and should ideally train with weights at least 4-5 times per week. 
+### Day 1:
+**Breakfast:** Smoothie with banana, spinach, 1 tbsp flaxseeds, 1 cup unsweetened almond milk, and a scoop of vegan protein powder.
 
-Here’s a weekly meal plan designed to help you gain muscle. This plan increases your protein intake, assumes you're active, and aims for a slight caloric surplus, which is necessary for muscle building. Always consult with a health professional before starting any new diet or workout plan.
+**Lunch:** Quinoa Salad - Cooked quinoa, cherry tomatoes, cucumber, red onion, chickpeas, dressed with lemon juice, and a drizzle of olive oil.
 
-### Day 1
-- **Breakfast:** Oatmeal with whey protein mixed in, topped with almond butter and banana.
-- **Snack:** Greek yogurt with honey and almonds.
-- **Lunch:** Grilled chicken breast, quinoa, and steamed broccoli.
-- **Snack:** Cottage cheese with sliced pineapple.
-- **Dinner:** Salmon, sweet potato, and a side salad with olive oil and vinegar.
+**Dinner:** Stir-fry with tofu, mixed bell peppers, broccoli, garlic, ginger, and low-sodium soy sauce; serve over a small portion of brown rice.
 
-### Day 2
-- **Breakfast:** Protein pancakes topped with fresh berries and a dollop of Greek yogurt.
-- **Snack:** Hard-boiled eggs and an orange.
-- **Lunch:** Turkey and avocado wrap with whole grain tortillas and a side of carrot sticks.
-- **Snack:** Hummus with raw veggies (carrots, cucumbers, bell peppers).
-- **Dinner:** Stir-fried beef with brown rice and mixed vegetables.
+**Snacks:** An apple; carrot sticks with 2 tbsp hummus.
 
-### Day 3
-- **Breakfast:** Smoothie with protein powder, spinach, banana, almond milk, and peanut butter.
-- **Snack:** A handful of mixed nuts and an apple.
-- **Lunch:** Grilled tuna salad with mixed greens, cherry tomatoes, olives, and feta cheese.
-- **Snack:** Edamame.
-- **Dinner:** Chicken curry with coconut milk served over jasmine rice.
+### Day 2:
+**Breakfast:** Vegan yogurt topped with a mix of berries and a sprinkle of granola.
 
-### Day 4
-- **Breakfast:** Scrambled eggs with spinach, mushrooms, and whole grain toast.
-- **Snack:** Greek yogurt with mixed berries.
-- **Lunch:** Quinoa salad with chickpeas, cucumber, bell peppers, and a tahini dressing.
-- **Snack:** Protein bar or shake.
-- **Dinner:** Pork tenderloin, roasted Brussel sprouts, and a baked potato.
+**Lunch:** Veggie wrap – Whole grain wrap, hummus, spinach, grated carrots, sliced bell pepper, cucumber, and sprouts.
 
-### Day 5
-- **Breakfast:** Cottage cheese with sliced peaches and flax seeds.
-- **Snack:** Sliced turkey and avocado.
-- **Lunch:** Seared salmon over a large green salad with olive oil and lemon dressing.
-- **Snack:** Protein shake with almond milk.
-- **Dinner:** Spaghetti squash with lean ground beef marinara and a side of sautéed spinach.
+**Dinner:** Lentil soup with a slice of whole grain bread.
 
-### Day 6
-- **Breakfast:** Protein waffles with a topping of cottage cheese and fresh strawberries.
-- **Snack:** Beef jerky and a kiwi.
-- **Lunch:** Baked tilapia, steamed green beans, and wild rice.
-- **Snack:** Smoothie with protein powder, mixed frozen berries, and chia seeds.
-- **Dinner:** Grilled chicken breasts with asparagus and quinoa salad.
+**Snacks:** A small handful of almonds; orange slices.
 
-### Day 7
-- **Breakfast:** Full-fat Greek yogurt with granola and honey.
-- **Snack:** Almonds and a banana.
-- **Lunch:** Roast beef sandwich on whole grain bread with lettuce, tomato, and mustard. Add a side soup.
-- **Snack:** Carrot sticks with almond butter.
-- **Dinner:** Sheet pan baked eggs, sweet potatoes, and turkey sausage. 
+### Day 3:
+**Breakfast:** Overnight oats made with rolled oats, chia seeds, unsweetened almond milk, and topped with sliced banana and a spoonful of peanut butter.
+
+**Lunch:** Vegan sushi rolls (avocado, cucumber, carrot, and tofu) with a side of miso soup.
+
+**Dinner:** Vegan chili made with kidney beans, black beans, tomatoes, corn, and bell peppers, spiced with cumin and chili powder.
+
+**Snacks:** A peach; celery sticks with almond butter.
+
+### Day 4:
+**Breakfast:** Green smoothie with kale, pineapple, banana, and coconut water.
+
+**Lunch:** Buddha bowl with roasted sweet potato, steamed kale, cooked quinoa, avocado, and pumpkin seeds, drizzled with tahini sauce.
+
+**Dinner:** Vegan pasta primavera made with whole wheat pasta, sautéed zucchini, asparagus, cherry tomatoes, and garlic in olive oil.
+
+**Snacks:** Mixed berries; a handful of walnuts.
+
+### Day 5:
+**Breakfast:** Tofu scramble with spinach, mushrooms, and tomatoes, served with a slice of whole grain toast.
+
+**Lunch:** Mixed bean salad with kidney beans, black beans, cilantro, red onion, and bell pepper with a lime vinaigrette.
+
+**Dinner:** Stuffed peppers with rice, black beans, corn, onions, and a sprinkle of nutritional yeast.
+
+**Snacks:** An apple; a vegan protein bar.
+
+### Day 6:
+**Breakfast:** Chia pudding made with unsweetened almond milk, topped with kiwi and coconut flakes.
+
+**Lunch:** Vegan "chicken" salad (made with chickpeas) in a whole grain pita with lettuce and tomato.
+
+**Dinner:** Thai curry with mixed vegetables and tofu, served with a small portion of jasmine rice.
+
+**Snacks:** Orange slices; a small handful of pumpkin seeds.
+
+### Day 7:
+**Breakfast:** Smoothie bowl with acai, mixed berries, a sprinkle of granola, and a few slices of banana.
+
+**Lunch:** Grilled vegetable and hummus sandwich on whole grain bread.
+
+**Dinner:** Vegan paella with rice, peas, bell peppers, artichokes, and seasoned with saffron and garlic.
+
+**Snacks:** A pear; a small bowl of air-popped popcorn.
 
 ### General Tips:
-1. **Stay Hydrated:** Drink plenty of water throughout the day.
-2. **Adjust Portion Sizes:** Depending on your energy needs and response to training, adjust your portion sizes.
-3. **Prep in Advance:** Consider meal prepping at the start of the week to stay on track.
-4. **Post-workout Nutrition:** Have a mix of protein and carbs after your workouts to aid recovery.
+- Drink plenty of water throughout the day.
+- Adjust portion sizes and snacks based on your fullness cues and activity level.
+- Incorporate at least 30 minutes of moderate exercise most days of the week to complement your diet for weight loss.
+- Consult with a registered dietitian to tailor the plan according to your specific nutritional needs. 
 
-Remember, nutrition needs can vary greatly depending on metabolism, daily activity level, and strength training intensity. Tailor these recommendations to your personal needs and preferences, and consult with a registered dietitian or nutritionist for personalized advice.
+This plan provides a diverse array of nutrients and should help in achieving your weight loss goal while enjoying a varied vegan diet.
